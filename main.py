@@ -176,5 +176,4 @@ def main_graphic_end():
 
 start()
 
-#https("zsso-skierniewice.pl","/aha")
 
